@@ -1,0 +1,21 @@
+p{
+    font-size: 16px;
+    color: white;
+}
+#heading-one{
+    font-size: 40px;
+    color: red;
+}
+.text-highlight{
+    text-align: center;
+    background-color: brown;
+    border: 3px dotted black
+div {
+    max-width: 576px;
+    padding: 16px;
+    border: 4px solid black;
+    margin-left: 16px;}}
+}
+*{font-style: oblique;}
+body{background-color: rgb(61, 235, 61);
+}
